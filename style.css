@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+html{
+    font-family:tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif;;
+}
 li{
     list-style: none;
 }
